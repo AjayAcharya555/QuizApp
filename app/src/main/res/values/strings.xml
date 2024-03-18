@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="question_title">Can you name these fruits and vegetables ?</string>
+    <string name="apple_text">apple</string>
+    <string name="submitbtn">Submit</string>
+    <string name="result_text">Result</string>
+    <string name="image_tropy">image</string>
+    <string name="hey_congratulation_txt">Hey, Congratulation !</string>
+    <string name="username_txt">Username</string>
+    <string name="score_txt">You Score is 9 out of 10</string>
+    <string name="finish_btn">Finish</string>
+    <string name="quizapp_name">Quiz App !</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="enter_un">Please enter you name !</string>
+    <string name="hint_name">Name</string>
+    <string name="btn_start">Start</string>
+    <string name="text_0_10">0/10</string>
+    <string name="_txt">Quiz Images</string>
 </resources>

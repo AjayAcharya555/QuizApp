@@ -15,7 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:text="Result"
+        android:text="@string/result_text"
         android:textColor="#E89110"
         android:textStyle="bold"
         android:textSize="25sp"/>
@@ -25,7 +25,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginTop="60dp"
-        android:contentDescription="image"
+        android:contentDescription="@string/image_tropy"
         android:src="@drawable/trophy" />
 
     <TextView
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="55dp"
-        android:text="Hey, Congratulation !"
+        android:text="@string/hey_congratulation_txt"
         android:textColor="#E89110"
         android:textStyle="bold"
         android:textSize="25sp"/>
@@ -43,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:text="Username"
+        android:text="@string/username_txt"
         android:textColor="#E89110"
         android:textStyle="bold"
         android:textSize="25sp"/>
@@ -53,7 +53,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:text="You Score is 9 out of 10"
+        android:text="@string/score_txt"
         android:textColor="#E89110"
         android:textSize="20sp"/>
     
@@ -63,7 +63,7 @@
         android:layout_height="60dp"
         android:layout_marginTop="100dp"
         android:textColor="#FFFFFF"
-        android:text="Finish"
+        android:text="@string/finish_btn"
         android:textSize="18sp"
         android:textStyle="bold"/>
 </LinearLayout>

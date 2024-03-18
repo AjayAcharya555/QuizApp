@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Quiz App !"
+        android:text="@string/quizapp_name"
         android:textColor="#E89110"
         android:textSize="25sp"
         android:textStyle="bold">
@@ -45,7 +45,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Welcome"
+                android:text="@string/welcome_txt"
                 android:textColor="#E89110"
                 android:textSize="30sp"
                 android:textStyle="bold">
@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:gravity="center"
-                android:text="Please enter you name !"
+                android:text="@string/enter_un"
                 android:textColor="#E89110"
                 android:textSize="15sp">
 
@@ -74,7 +74,7 @@
                     android:id="@+id/etname"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Name"
+                    android:hint="@string/hint_name"
                     android:inputType="text"
                     android:textColor="#AA385E">
 
@@ -86,7 +86,7 @@
                 android:layout_width="150dp"
                 android:layout_height="50dp"
                 android:layout_marginTop="20dp"
-                android:text="Start"
+                android:text="@string/btn_start"
                 android:textSize="18sp"
                 android:textColor="#FF9800">
 
