@@ -23,7 +23,7 @@
             android:gravity="center"
             android:layout_margin="15dp"
             android:textSize="20sp"
-            android:textColor="#456"
+            android:textColor="#DC3B72"
             android:text="Can you name these fruits and vegetables ?">
 
         </TextView>
